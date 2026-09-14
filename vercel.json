@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://agtelegaexport.onrender.com/$1"
+    }
+  ]
+}
