@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://agtelegaexport.onrender.com/$1"
+      "destination": "/index.html"
     }
   ]
 }
